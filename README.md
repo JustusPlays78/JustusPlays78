@@ -16,7 +16,7 @@ I primarily work in the frontend area, but I am currently learning backend techn
 
 Some of my current projects:
 
-- Maintaining ![FiveV-Framework](https://github.com/FiveV-Framework?view_as=public)
+- Maintaining FiveV-Framework:  [![](https://avatars.githubusercontent.com/u/204807991?s=30&v=4)](https://github.com/FiveV-Framework?view_as=public)
 - Most of the rest projects are private
 
 ## Contact

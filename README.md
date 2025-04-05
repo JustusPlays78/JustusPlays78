@@ -4,13 +4,11 @@
 
 I am a software programmer from Darmstadt. I have experience in various programming languages and technologies, particularly in:
 
-- **TypeScript (TSC) / JavaScript (JS)**
-- **C#**
+![](./typescript.svg) ![](./javascript.svg) ![](./csharp.svg)
 
-I primarily work in the frontend area, but I am currently learning backend technologies such as:
+currently working on:
 
-- **Golang**
-- **Postgres**
+![](./golang.svg) ![](./postgres.svg)
 
 ## Projects
 

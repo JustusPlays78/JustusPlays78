@@ -19,6 +19,6 @@ Some of my current projects:
 - Maintaining ![FiveV-Framework](https://github.com/FiveV-Framework?view_as=public)
 - Most of the rest projects are private
 
-## Kontakt
+## Contact
 
-Wenn du Fragen hast oder einfach nur plaudern möchtest, kannst du mich gerne kontaktieren!
+If you have any questions or just want to chat, feel free to reach out!

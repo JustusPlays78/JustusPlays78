@@ -4,7 +4,11 @@
 
 I am a software programmer from Darmstadt. I have experience in various programming languages and technologies, particularly in:
 
+![](./typescript.svg) ![](./javascript.svg) ![](./csharp.svg)
 
+currently working on:
+
+![](./golang.svg) ![](./postgres.svg)
 
 ## Projects
 
